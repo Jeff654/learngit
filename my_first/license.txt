@@ -1,0 +1,2 @@
+data mining is a big direction, and it includes many applications.
+machine learning is based on math and statistic subjects
